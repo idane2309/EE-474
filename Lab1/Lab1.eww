@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Task1a\Task1a.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Task1b\Task1b.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
